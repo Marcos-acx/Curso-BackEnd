@@ -1,0 +1,20 @@
+[
+  {
+    "title": "papa",
+    "description": "verdura",
+    "price": 100,
+    "thumbnail": "ruta",
+    "code": 2,
+    "stock": 426,
+    "id": 1
+  },
+  {
+    "title": "manzana",
+    "description": "ftqruta",
+    "price": 100,
+    "thumbnail": "ruta",
+    "code": 5,
+    "stock": 426,
+    "id": 2
+  }
+]
